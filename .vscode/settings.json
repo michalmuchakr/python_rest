@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.profiles.windows": {
+    "Cmder": {
+      "path": "${env:windir}\\System32\\cmd.exe",
+      "args": ["/k", "D:\\michal\\development\\programs\\cmder\\vendor\\bin\\vscode_init.cmd"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Cmder",
+    "DockerRun.DisableDockerrc": true,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.linux": "",
+}
