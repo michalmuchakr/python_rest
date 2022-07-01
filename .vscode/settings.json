@@ -9,4 +9,9 @@
     "DockerRun.DisableDockerrc": true,
     "terminal.explorerKind": "external",
     "terminal.integrated.defaultProfile.linux": "",
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "python.analysis.indexing": true,
+    "python.analysis.extraPaths": []
 }
